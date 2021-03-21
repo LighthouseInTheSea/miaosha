@@ -18,7 +18,7 @@ public class UserInfo {
 
     private String telphone;
 
-    @Column(name = "registerModel")
+    @Column(name = "registerMode")
     private String registerMode;
 
     @Column(name = "thirdPartId")
